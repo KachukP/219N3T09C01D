@@ -1,0 +1,6 @@
+.root-one{
+    background-color: rgb(111, 255, 111);
+    border: solid 4px rgb(0, 104, 0);
+    display: flex;
+    flex-direction: column;
+}

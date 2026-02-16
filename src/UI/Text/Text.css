@@ -1,0 +1,11 @@
+.content-t1{
+    margin: 10px;
+}
+.t1{
+    border-radius: 4px;
+    border: solid 2px rgb(47, 119, 38);
+    background-color: rgb(195, 252, 90);
+    padding: 6px 12px;
+    text-align: center;
+    font-size: 18px;
+}

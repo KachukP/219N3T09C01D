@@ -1,0 +1,18 @@
+.bot1{
+    border-radius: 4px;
+    border: solid 2px rgb(12, 85, 33);
+    background-color: rgb(30, 207, 142);
+    padding: 6px 12px;
+    text-align: center;
+}
+.bot2{
+    border-radius: 4px;
+    border: solid 2px rgb(124, 58, 161);
+    background-color: rgb(253, 193, 255);
+    padding: 6px 12px;
+    text-align: center;
+}
+.content-but{
+    margin: 10px;
+    padding: 4px;
+}
